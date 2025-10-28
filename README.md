@@ -57,6 +57,7 @@ delay.h, gpio.h, stdulils.h
 # CIRCUIT DIAGRAM:
 <img width="867" height="501" alt="image" src="https://github.com/user-attachments/assets/19bfa543-1065-4a19-8f8c-2a1e254a9024" />
 # PROGRAM:
+
 ```
 #include <lpc17xx.h> 
 #include "delay.h" //User defined library which conatins the delay routines 
