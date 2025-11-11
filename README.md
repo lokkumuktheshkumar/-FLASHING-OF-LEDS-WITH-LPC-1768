@@ -82,10 +82,4 @@ int main()
 }
 ```
 # Output:
-
-
-
-
-
-
-
+<img width="722" height="527" alt="image" src="https://github.com/user-attachments/assets/20913095-1c5f-402e-af54-8bc47af9e313" />
